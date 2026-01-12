@@ -27,7 +27,7 @@ a {
 /* SOLUTION */
 
 .header {
-  padding: 8px;
+  padding: 0px;
   display: flex;
   align-items: center;
   justify-content: space-between;
